@@ -1,0 +1,11 @@
+key: ldapIntegrated
+title: LDAP Integration
+description: Synchronized LDAP groups and users
+author: Joshua Hemphill
+logo: https://static.requarks.io/logo/wikijs.svg
+color: primary
+website: https://wiki.js.org
+isAvailable: true
+useForm: true
+usernameType: email
+props: {}

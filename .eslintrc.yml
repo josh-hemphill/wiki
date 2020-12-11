@@ -1,3 +1,4 @@
+root: true
 extends:
   - requarks
   - plugin:vue/strongly-recommended

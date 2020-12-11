@@ -8,3 +8,7 @@ db:
   pass: wikijsrocks
   db: wiki
 logLevel: info
+auth:
+  hideLocal: true
+theming:
+  darkMode: true
